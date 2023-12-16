@@ -1,7 +1,4 @@
-# Bencmark Study
-
-
-## Steps to Reproduce
+# Steps to Reproduce Benchmark Study
 
 ## Clone this repository
 ## Install required libraries for algorithms 
