@@ -17,7 +17,7 @@
 in the run_msa function, ensure that you modify the paths for each algorithms to your respective path based on where you have installed tha algorithm and its required libraries
 
 ## Run the benchmark algorithm
-cd into the benchmarkStudyCS4775 folder and run the following terminald command: python3 benchmark.py
+cd into the benchmarkStudyCS4775 folder and run the following terminal command: python3 benchmark.py
 
 ## Run algorithm on short sequences and long sequences
 Modify the paths of the reference, output, and input files in the main function. 
