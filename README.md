@@ -1,7 +1,11 @@
 # Bencmark Study
 
 
-## How to reproduce
+## Steps to Reproduce
 
 
-### Description
+### Install required libraries for algorithms 
+## Install Clustal Omega 
+## Install KAlign
+## Install MAFFT 
+## Install MUSCLE
